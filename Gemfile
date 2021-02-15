@@ -1,0 +1,13 @@
+source 'http://rubygems.org'
+
+gem 'capybara'
+gem 'cucumber', '~> 3.2'
+gem 'rspec'
+gem 'selenium-webdriver'
+gem 'site_prism'
+gem 'faker'
+gem 'cpf_faker'
+gem 'faker'
+gem 'ffi', '~> 1.13', '>= 1.13.1'
+gem 'pry'
+gem 'httparty'
